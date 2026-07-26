@@ -7,7 +7,7 @@ Cool Chess is a small, self-contained chess program and engine written in QB64 B
 * Play by clicking squares or by entering coordinate moves such as `e2e4`, `e2-e4`, `o-o`, or `e7e8q`.
 * Handles castling, en passant, promotion, checkmate, stalemate, threefold repetition, the fifty-move rule, and common insufficient-material draws.
 * Shows legal-move markers, move history in SAN, captured pieces, last-move highlights, check status, and a flippable board.
-* Supports undo/redo, FEN display, PGN export, hints, engine-vs-human play, adjustable search depth, and per-move time limits.
+* Supports talebacl, FEN display, PGN export, hints, engine-vs-human play, adjustable search depth, and per-move time limits.
 * Uses iterative-deepening negamax with alpha-beta pruning, quiescence search, check extensions, MVV-LVA ordering, killer moves, Zobrist hashing, and a transposition table.
 
 The project has no external graphics files: the board UI and piece sprites are contained in the BASIC source.
