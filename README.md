@@ -24,7 +24,7 @@ Open `COOLCHESS13.bas` in a current QB64-PE installation, then run or build it f
 
 ## A note about the EXE and antivirus warnings
 
-The Windows EXE distributed with this project is **not a virus**. It is an unsigned executable compiled from the source in this repository by a hobbyist GitHub build workflow. New, unsigned binaries have no publisher reputation, so Windows SmartScreen or an antivirus product may show a warning even when the file is benign.
+The Windows EXE distributed with this project is **not a virus**. (I swear on the life of my dead mother.) It is an unsigned executable compiled from the source in this repository by a hobbyist GitHub build workflow. New, unsigned binaries have no publisher reputation, so Windows SmartScreen or an antivirus product may show a warning even when the file is benign.
 
 The complete QB64 source is included here so you can inspect it or build the executable yourself. As with any download, only use releases obtained from this repository; do not bypass a security warning for a file obtained from an unrelated site or re-upload.
 
